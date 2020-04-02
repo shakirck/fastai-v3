@@ -14,7 +14,7 @@ export_file_url = 'https://www.dropbox.com/s/csjyq4fo586uhpx/export.pkl?raw=1'
 export_file_name = 'export.pkl'
 
 # classes = ['black', 'grizzly', 'teddys']
-classes = ['Indian Rock Python', 'Monocled Cobra', 'Common Trinket', 'Green Tree Vine', 'Common Krait', 'King Cobra', 'Checkered Keelback', 'Banded Racer', 'Common Rat Snake', 'Common Sand Boa', 'Spectacled Cobra', 'Saw-scaled Viper', "Russell's Viper"]
+classes = ['Indian-Cobra','Banded-Krait','Russells-Viper','King-Cobra']
 
 path = Path(__file__).parent
 
